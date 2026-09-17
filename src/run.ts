@@ -1,5 +1,5 @@
 // @ts-nocheck
-// The broadened default sync set, shared by the plugin hook, plugin-updater, and Cairn.
+// The broadened default sync set, shared by the plugin hook, plugin-updater, and the dashboard.
 // Category-gated (accounts / plugins / settings / pluginConfigs), exclude-aware, secrets scrubbed.
 
 import { existsSync, readdirSync } from "fs";
