@@ -65,7 +65,7 @@ sync();                                           // reconcile everything regist
 Give any \`plugins.json\` entry a \`sync: true\` flag and it is mirrored into the other app's \`plugins.json\` on the next \`plugin-updater\` run, so installing a plugin in one app installs it in the other. It is a **per-home union** (each app keeps its own non-synced entries) and **additive** (never removes).
 
 \`\`\`json
-[{ "name": "antigravity-auth", "url": "https://github.com/forebay/antigravity-auth", "enabled": true, "autoUpdate": false, "sync": true }]
+[{ "name": "antigravity-provider", "url": "https://github.com/forebay/antigravity-provider", "enabled": true, "autoUpdate": false, "sync": true }]
 \`\`\``,
     },
   ],
