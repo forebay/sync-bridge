@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "importName": "sync-bridge",
+  "description": "Copies settings and accounts between application homes; retired by ruling, the portable place replaces it.",
+  "topics": [
+    "ai",
+    "ai-proxy",
+    "claude",
+    "forebay",
+    "llm",
+    "opencode",
+    "plugin",
+    "typescript"
+  ]
+}
